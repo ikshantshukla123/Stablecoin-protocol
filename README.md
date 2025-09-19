@@ -5,7 +5,7 @@
 
 
 ## 🛠 Tech Stack
-- **Solidity (0.8.x)**
+- **Solidity (^0.8.18)**
 - **Foundry (Forge, Cast, Anvil)**
 - OpenZeppelin Contracts
 
